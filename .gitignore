@@ -1,0 +1,7 @@
+_temp_
+node_modules/
+infrastructure/.terraform/
+infrastructure/secrets
+.env*
+*.tfstate
+*.tfstate.*
